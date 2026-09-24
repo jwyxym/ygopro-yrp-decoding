@@ -2,6 +2,11 @@
 name = "ygopro-yrp-decoding"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
+authors = ["jwyxym <jwyxym@126.com>"]
+description = "将yrp解析为yrp3d字节流"
+keywords = ["ygopro"]
+repository = "https://github.com/jwyxym/ygopro-yrp-decoding"
 
 [dependencies]
 ygopro = { version = "0.1.7", default-features = false, features = ["koishi", "forge"] }
