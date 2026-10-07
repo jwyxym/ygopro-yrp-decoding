@@ -1516,7 +1516,7 @@ dependencies = [
 
 [[package]]
 name = "ygopro-yrp-decoding"
-version = "0.1.1"
+version = "0.1.1+3209cd866a"
 dependencies = [
  "anyhow",
  "binrw",
